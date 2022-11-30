@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/mishael-codes/social-media-dashboard-with-theme-switcher-master)
+- Live Site URL: [Live site URL](https://mishael-codes.github.io/social-media-dashboard-with-theme-switcher-master/)
 
 ## My process
 
